@@ -66,5 +66,5 @@ public class TripPlanner {
         areaInMiles = (int)(areaInKM/2.59*100)/100.0;
         System.out.println("In miles^2 that is "+areaInMiles);
         System.out.println("*********");
-     }
+    }
 }
