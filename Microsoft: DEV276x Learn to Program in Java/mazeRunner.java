@@ -1,3 +1,6 @@
+/*This is an implementation of Maze class to build a game called Maze Runner
+* Here's the link to Maze Class: https://prod-edxapp.edx-cdn.org/assets/courseware/v1/e5059d8cb28344b695e2d466783a4a8b/asset-v1:Microsoft+DEV276x+2T2019+type@asset+block/Maze.java.zip
+*/
 import java.util.*;
 public class mazeRunner {
 
